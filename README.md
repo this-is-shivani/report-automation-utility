@@ -1,4 +1,4 @@
-## Report Automation Utility (.NET API)
+## Report Automation Utility
 
 Delivery of reports using a Java/Spring Boot REST API.
 
